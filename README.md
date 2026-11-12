@@ -1,6 +1,6 @@
 # FeatureBench: Baseline and ORTG
 
-This attachment contains 65 Baseline (Codex) / ORTG case comparisons and one independent case with different network conditions. These are case-level results, not an aggregate score for the full benchmark.
+This attachment contains 65 Baseline (Codex) / ORTG case comparisons.
 
 - [Baseline and ORTG results](comparison.csv)
 - [Machine-readable comparisons](index.json)
