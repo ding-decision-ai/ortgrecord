@@ -1,0 +1,26 @@
+{
+  "model": "GPT-5.6 Sol",
+  "reasoning_effort": "high",
+  "ortg_version": "0.5.31",
+  "confounded": false,
+  "initialization": {
+    "mode": "Independent source-only initialization without the task prompt, baseline patch, or evaluation feedback.",
+    "coverage": {},
+    "semantic_accuracy_independently_established": null
+  },
+  "blind_first_attempt": null,
+  "matched_execution_budget": null,
+  "failure_feedback_continuation": null,
+  "additional_phase_budget_seconds": null,
+  "source_and_context": {},
+  "whole_source_and_input_provenance_independently_established": null,
+  "single_version_causal_attribution_established": null,
+  "automatic_visible_self_test_feedback": null,
+  "model_exit_code": null,
+  "network": {
+    "protocol_group": "offline",
+    "configured_search": "disabled",
+    "actual_external_information_obtained": null,
+    "observed_activity": null
+  }
+}

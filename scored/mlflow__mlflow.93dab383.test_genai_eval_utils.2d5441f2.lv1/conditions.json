@@ -1,0 +1,35 @@
+{
+  "model": "GPT-5.6 Sol",
+  "reasoning_effort": "high",
+  "ortg_version": "0.5.93",
+  "confounded": true,
+  "initialization": {
+    "mode": "Continuation of the same task session from a partial state, with an additional coordinator phase.",
+    "coverage": {},
+    "semantic_accuracy_independently_established": null
+  },
+  "blind_first_attempt": false,
+  "matched_execution_budget": false,
+  "failure_feedback_continuation": null,
+  "additional_phase_budget_seconds": 1200,
+  "source_and_context": {
+    "same_SID_current_partial": true,
+    "current_input_has_no_added_grader_hints": true,
+    "earlier_lineage_pristine_certified": false,
+    "exact_before_business_error_checkpoint": null,
+    "nonblind_current_partial_continuation": true,
+    "full_repository_semantic_quality_proven": false,
+    "original_matched_budget_comparable": false,
+    "extra_coordinator_phase_cap_seconds": 1200
+  },
+  "whole_source_and_input_provenance_independently_established": false,
+  "single_version_causal_attribution_established": false,
+  "automatic_visible_self_test_feedback": null,
+  "model_exit_code": null,
+  "network": {
+    "protocol_group": "offline",
+    "configured_search": "disabled",
+    "actual_external_information_obtained": null,
+    "observed_activity": null
+  }
+}

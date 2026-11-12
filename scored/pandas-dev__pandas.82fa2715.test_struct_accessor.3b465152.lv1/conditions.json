@@ -1,0 +1,35 @@
+{
+  "model": "GPT-5.6 Sol",
+  "reasoning_effort": "high",
+  "ortg_version": "0.5.54",
+  "confounded": false,
+  "initialization": {
+    "mode": "Source-only generation with a compact context handoff.",
+    "coverage": {
+      "ready": true,
+      "native_outline_rows": 2504,
+      "total_cognitive_files": 2504,
+      "coverage_complete": true,
+      "source_identity_preserved": true,
+      "roles_preserved": true,
+      "preformal_full_source_coverage": 2504,
+      "cache_saved_before_formal": true
+    },
+    "semantic_accuracy_independently_established": null
+  },
+  "blind_first_attempt": null,
+  "matched_execution_budget": null,
+  "failure_feedback_continuation": null,
+  "additional_phase_budget_seconds": null,
+  "source_and_context": {},
+  "whole_source_and_input_provenance_independently_established": null,
+  "single_version_causal_attribution_established": null,
+  "automatic_visible_self_test_feedback": null,
+  "model_exit_code": null,
+  "network": {
+    "protocol_group": "offline",
+    "configured_search": "disabled",
+    "actual_external_information_obtained": null,
+    "observed_activity": null
+  }
+}

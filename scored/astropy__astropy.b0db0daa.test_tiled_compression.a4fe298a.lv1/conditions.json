@@ -1,0 +1,29 @@
+{
+  "model": "GPT-5.6 Sol",
+  "reasoning_effort": "high",
+  "ortg_version": "0.5.80",
+  "confounded": true,
+  "initialization": {
+    "mode": "Continuation from a reconstructed pre-edit conversation with inherited source context; no additional case-specific operator hints.",
+    "coverage": {
+      "source_initialization_repeated": false
+    },
+    "semantic_accuracy_independently_established": null
+  },
+  "blind_first_attempt": null,
+  "matched_execution_budget": null,
+  "failure_feedback_continuation": null,
+  "additional_phase_budget_seconds": null,
+  "source_and_context": {},
+  "whole_source_and_input_provenance_independently_established": null,
+  "single_version_causal_attribution_established": false,
+  "automatic_visible_self_test_feedback": null,
+  "model_exit_code": 124,
+  "operator_added_case_specific_hints": false,
+  "network": {
+    "protocol_group": "offline",
+    "configured_search": "disabled",
+    "actual_external_information_obtained": null,
+    "observed_activity": null
+  }
+}

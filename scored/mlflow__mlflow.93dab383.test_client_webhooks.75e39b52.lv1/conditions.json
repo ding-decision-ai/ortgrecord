@@ -1,0 +1,40 @@
+{
+  "model": "GPT-5.6 Sol",
+  "reasoning_effort": "high",
+  "ortg_version": "0.5.70",
+  "confounded": true,
+  "initialization": {
+    "mode": "Failure-feedback continuation with an additional 1200-second phase and separate CPU verification.",
+    "coverage": {
+      "ready": true,
+      "coverage_complete": false,
+      "source_identity_preserved": true,
+      "roles_preserved": true,
+      "related_file_count": 3,
+      "related_valid_outline_count": 3,
+      "original_cognitive_files": 5306,
+      "genuine_rows_reused_before_new_source": 0,
+      "subset_ready": true,
+      "full_repository_ready": false,
+      "maintenance_turn_performed": true,
+      "semantic_quality_automatically_proven": false,
+      "active_genuine_rows_before_new_source": 0
+    },
+    "semantic_accuracy_independently_established": null
+  },
+  "blind_first_attempt": false,
+  "matched_execution_budget": null,
+  "failure_feedback_continuation": true,
+  "additional_phase_budget_seconds": 1200,
+  "source_and_context": {},
+  "whole_source_and_input_provenance_independently_established": null,
+  "single_version_causal_attribution_established": false,
+  "automatic_visible_self_test_feedback": null,
+  "model_exit_code": null,
+  "network": {
+    "protocol_group": "offline",
+    "configured_search": "disabled",
+    "actual_external_information_obtained": null,
+    "observed_activity": null
+  }
+}
